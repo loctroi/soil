@@ -1,3 +1,0 @@
-# soil
-Soil map
-Loctroi
