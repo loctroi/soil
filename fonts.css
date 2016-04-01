@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'ViperISRIC';
+	src: url('./VIPER__.eot'); /* IE9 Compat Modes */
+	src: url('./VIPER__.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('./VIPER__.woff') format('woff'), /* Modern Browsers */
+	url('./VIPER__.ttf') format('truetype'); /* Safari, Android, iOS */
+}
